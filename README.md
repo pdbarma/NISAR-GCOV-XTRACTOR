@@ -46,7 +46,9 @@ Select your downloaded NISAR `.h5` file and destination folder. The software dyn
 ---
 
 ### Step 2: Draw Your Region on the Interactive Map
-Click **"Open Interactive Web Map & Draw ROI"** to view the scene footprint overlaid on satellite imagery.
+Click **"Open Interactive Web Map & Draw ROI"** to view the scene footprint overlaid on satellite imagery.  
+
+> Note: The interactive ROI map operates by extracting the corner coordinates from the GCOV file metadata to generate a bounding footprint. By rendering this outline instead of loading the massive SAR raster into memory, the tool drastically reduces resource consumption and ensures smooth performance.
 
 ```text
 
