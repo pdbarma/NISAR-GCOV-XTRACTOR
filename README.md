@@ -12,7 +12,8 @@
 
 No installation, Python, or Conda required! Download the pre-compiled executable and run it immediately on any Windows PC:
 
-👉 **[Download NISAR_X_TRACTOR.exe (Latest Version)](https://github.com/pdbarma/NISAR-GCOV-XTRACTOR/releases/latest)**
+👉 **[Download NISAR_X_TRACTOR.exe (Latest Version)](https://github.com/pdbarma/NISAR-GCOV-XTRACTOR/releases/latest)**  
+⚠️Source Code will be released upon completion of the tool.  
 
 *Free for personal, academic, and scientific research use.*
 
