@@ -1,0 +1,59 @@
+NON-COMMERCIAL SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 Pirsa '314rsa' Debbarma. All rights reserved.
+
+This software, including its executable binaries, associated documentation, visual assets, 
+and metadata (collectively referred to as "NISAR GCOV X-TRACTOR" or the "Software"), is provided 
+free of charge solely for non-commercial, educational, research, academic, and personal 
+evaluation purposes under the following terms and conditions.
+
+TERMS AND CONDITIONS:
+
+1. SCOPE AND RETROACTIVE APPLICABILITY:
+   This License Agreement governs and applies unconditionally to all versions of the Software, 
+   encompassing all past releases, the current release, and all future updates, builds, patches, 
+   binaries, and modifications unless explicitly superseded in writing by the copyright holder.
+
+2. PERMITTED NON-COMMERCIAL USE:
+   You are granted a non-exclusive, non-transferable, revocable license to download, install, 
+   execute, and use the Software free of charge solely for non-commercial academic research, 
+   educational coursework, scientific evaluation, and personal non-profit purposes.
+
+3. COMMERCIAL RESTRICTIONS:
+   Any commercial, corporate, government-commercial, or for-profit use of the Software is strictly 
+   prohibited without prior explicit, written authorization and licensing from the copyright holder. 
+   Prohibited commercial activities include, but are not limited to:
+   a. Selling, renting, leasing, sublicensing, or distributing the Software for monetary gain.
+   b. Integrating or wrapping the Software into commercial platforms, paid APIs, or cloud services.
+   c. Utilizing the Software to deliver paid consulting, commercial products, or proprietary services.
+
+4. REVERSE ENGINEERING & AI/ML RESTRICTION:
+   a. You shall not reverse engineer, decompile, disassemble, unpack, decrypt, modify, or attempt 
+      to reconstruct or discover the source code, underlying algorithms, structure, or binary architecture 
+      of the Software in whole or in part.
+   b. You shall not feed, ingest, scrape, upload, or process the Software, its binaries, decompiled 
+      artifacts, internal structures, or documentation into any Artificial Intelligence (AI), Machine 
+      Learning (ML), Large Language Model (LLM), automated code generator, neural network, or automated 
+      reconstruction system for the purpose of reproducing, cloning, generating derivatives, or training 
+      competing software.
+
+5. REDISTRIBUTION & ATTRIBUTION:
+   You may share and redistribute verbatim copies of the official standalone executable of this 
+   Software provided that:
+   a. This License Agreement and the original copyright notice remain unaltered and accompany all copies.
+   b. Clear and prominent credit and attribution are given to the author, Pirsa '314rsa' Debbarma.
+   c. No fee, charge, or bundle monetization is levied for redistribution.
+
+6. TERMINATION:
+   Any violation of the terms of this Agreement automatically terminates your license to use the Software 
+   with immediate effect and may subject you to legal remedies under applicable copyright and intellectual 
+   property laws.
+
+7. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY:
+   THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS 
+   FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE 
+   LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES 
+   (INCLUDING, BUT NOT LIMITED TO, LOSS OF DATA, CORRUPTION OF DATA, HARDWARE FAILURE, OR BUSINESS 
+   INTERRUPTION) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
+   POSSIBILITY OF SUCH DAMAGE.
